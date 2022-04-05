@@ -51,6 +51,11 @@ const aboutMe = {
 </br>
 </br>
  <p border-radius= 100px> <img src="" alt=""/> </p>
+ 
+  <div align="center"> 
+ <h1>📌My Projects</h1>
+  </div>
+
 <br />
   <h2>Poke-App</h2>
   <h3> Used technology: <a href= https://github.com/Carlos13-Lab?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
