@@ -71,7 +71,6 @@ const aboutMe = {
   
   
   <div>
-  <a> <img height="40%" width="40%" src ="https://github.com/Albamarfdc/PokeApp/blob/main/client/src/components/assets/landing.png">
   <img height="40%" width="40%" src ="./asset/Home.png">
   <img height="40%" width="40%" src ="./asset/Loanding.png">
   </div>
