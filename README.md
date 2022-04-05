@@ -1,4 +1,4 @@
-<div align="center"> <img width="50%" height="20%" border-radius=10pc src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" atl="hello world"/></div>
+<div align="center"> <img width="50%" height="100%" border-radius=10pc src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" atl="hello world"/></div>
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">I am a 20-year-old Venezuelan lover of video games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. Last year 2021, I rediscovered my passion for programming and I am finishing my course at Bootcamp Henry to obtain my full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
 
