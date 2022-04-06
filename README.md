@@ -2,18 +2,18 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">I am a 20-year-old Venezuelan lover of video games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. Last year 2021, I rediscovered my passion for programming and I am finishing my course at Bootcamp Henry to obtain my full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
 
-javascript
 const aboutMe = {
+   pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Bootstrap"]
+         css: ["Bootstrap", "Material UI, Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["PostgreSQL"],
+      databases: ["MongoDB", "PostgreSQL"],
    },
 };
 
