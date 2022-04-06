@@ -16,11 +16,7 @@ const aboutMe = {
       databases: ["PostgreSQL"],
    },
 };
-```
-<<<<<<< HEAD
 
-=======
->>>>>>> be1e4cb6783d5c5f12cd5f68731b4cc84f1390a4
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
 
