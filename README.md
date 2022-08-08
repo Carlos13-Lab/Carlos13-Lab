@@ -4,7 +4,7 @@
   <img align="center" style="width: 50%" src="https://i.pinimg.com/originals/f7/54/cc/f754cc850d1b0eb55caec0fcd56bf4fd.gif" />
 </div>
 <h2 align="left">📖 Sobre mi</h2>
-<h4 align="left">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, SQL, MongoDB.</h4>
+<h4 align="left">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, PostgreSQL, MongoDB.</h4>
 
 <p align="left">
     <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
