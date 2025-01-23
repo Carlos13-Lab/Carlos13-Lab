@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido! Soy Carlos Diaz, Backend Developer</h1>
+<h1 align="center">¡Bienvenido! Soy Carlos Diaz, Desarollador Web</h1>
 
 <div align="center">
   <img align="center" style="width: 50%" src="https://i.pinimg.com/originals/f7/54/cc/f754cc850d1b0eb55caec0fcd56bf4fd.gif" />
