@@ -35,8 +35,6 @@
 <h2 align="left">📌 Alguno de mis proyectos</h2>
 <div>
  <a href="https://pokemonclient-dun.vercel.app"><img width="410px" height="230px" src="https://i.ibb.co/gD4LdHp/Pokemon.png" alt="Pokemon" border="0" /></a>
-  <a href="food-app-13.vercel.app"><img width="410px" height="230px" src="https://i.ibb.co/4tDxDzm/Food.png" alt="Food" border="0"></a>
-  <a href="https://deploy-travelapp.herokuapp.com"><img width="410px" height="230px" src="https://i.ibb.co/x6vWYk1/Travel.png" alt="Travel" border="0"></a>
   <a href="https://c5-31.vercel.app"><img width="410px" height="230px" src="https://i.ibb.co/dGWTsSD/interact.png" alt="interact" border="0"></a>
 </div>
 
