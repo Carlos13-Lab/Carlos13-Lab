@@ -7,7 +7,7 @@
 <h4 align="left">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, Mongoose, Docker, PostgreSQL, MongoDB.</h4>
 
 <p align="left">
-    <a href="https://portafolio-delta-ten.vercel.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="https://portafolio2-0-omega.vercel.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <br />
 <h2 align="left">🛠 Tecnologías</h2>
