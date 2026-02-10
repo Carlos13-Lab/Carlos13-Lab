@@ -1,96 +1,122 @@
-<h1 align="center">¡Bienvenido! Soy Carlos Diaz, Desarollador Web</h1>
+# Carlos Díaz — Desarrollador Full Stack 👨‍💻
 
-<div align="center">
-  <img align="center" style="width: 50%" src="https://i.pinimg.com/originals/f7/54/cc/f754cc850d1b0eb55caec0fcd56bf4fd.gif" />
-</div>
-<h2 align="left">📖 Sobre mi</h2>
-<h4 align="left">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, Mongoose, Docker, PostgreSQL, MongoDB.</h4>
+👋 ¡Hola! Soy **Carlos**, Desarrollador Full Stack especializado en **TypeScript**, con experiencia construyendo **sistemas escalables**, **APIs robustas** y **aplicaciones web modernas**.  
+Me apasiona transformar procesos manuales en soluciones **automatizadas, seguras y eficientes**.
 
-<p align="left">
-    <a href="https://portafolio2-0-omega.vercel.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br />
-<h2 align="left">🛠 Tecnologías</h2>
-Carlos Díaz - Desarrollador Full Stack 👨‍💻
-👋 ¡Hola! Soy Carlos
-Desarrollador Full Stack especializado en TypeScript con experiencia en la creación de sistemas escalables, APIs robustas y aplicaciones web modernas. Mi pasión es transformar procesos manuales en soluciones automatizadas y eficientes.
+---
 
-🚀 Experiencia Destacada
-Backend Developer en FibexTelecom *(Jul 2025 - Actualidad)*
-Sistema de Webhooks Bancarios: Desarrollé una API REST con Node.js/TypeScript que integra 4+ bancos venezolanos, procesando pagos en tiempo real con seguridad JWT, sistema de reintentos y notificaciones en Telegram/SMS.
+## 🚀 Experiencia Destacada
 
-Panel de Administración: Construí un panel web en Next.js/React para gestionar caja automática y dispositivos POS, con filtros avanzados y CRUD completo.
+### **Backend Developer — FibexTelecom**
+📅 *Jul 2025 – Actualidad*
 
-Aplicación Android: Participé en el desarrollo de una app con Angular/Ionic para kioskos de autoservicio con impresión térmica integrada.
+- 🔐 **Sistema de Webhooks Bancarios**  
+  Desarrollo de una **API REST** en **Node.js / TypeScript** integrando **4+ bancos venezolanos**, procesamiento de pagos en tiempo real, autenticación **JWT**, sistema de **reintentos**, y notificaciones vía **Telegram / SMS**.
 
-Automatizaciones: Implementé sincronizadores (Cron Jobs) para datos de IPTV y conciliación automática de pagos.
+- 🖥️ **Panel de Administración**  
+  Panel web en **Next.js / React** para gestión de caja automática y dispositivos POS, con filtros avanzados y **CRUD completo**.
 
-Backend Development - Interact (NoCountry) *(May 2023 - Jun 2023)*
-Plataforma educativa completa con Node.js, Express y MongoDB para gestión de cursos, usuarios y calificaciones.
+- 📱 **Aplicación Android (Kiosko)**  
+  Participación en el desarrollo de app con **Angular / Ionic** para kioskos de autoservicio con **impresión térmica integrada**.
 
-APIs RESTful con autenticación JWT, middlewares de seguridad y documentación Swagger.
+- ⚙️ **Automatizaciones**  
+  Implementación de **Cron Jobs** para sincronización de datos IPTV y conciliación automática de pagos.
 
-💻 Stack Tecnológico
-Lenguajes
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+---
 
-Backend
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+### **Backend Developer — Interact (NoCountry)**
+📅 *May 2023 – Jun 2023*
 
-Frontend
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+- Desarrollo de **plataforma educativa** con **Node.js, Express y MongoDB**.
+- Gestión de cursos, usuarios y calificaciones.
+- APIs RESTful con **JWT**, middlewares de seguridad y documentación **Swagger**.
 
-Herramientas
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+---
 
-📈 Proyectos Destacados
-Sistema de Pagos Bancarios FIBEX
-API que procesa webhooks bancarios en tiempo real, con integración a múltiples bancos, sistema de reintentos y dashboard de monitoreo.
+## 💻 Stack Tecnológico
 
-Tecnologías: Node.js, TypeScript, PostgreSQL, TypeORM, Zod, Swagger
+### 🧠 Lenguajes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Panel de Gestión de Caja Automática
-Aplicación web para administración centralizada de dispositivos POS y caja automática.
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Tecnologías: Next.js, React, TypeScript, TailwindCSS, Axios
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Aplicación Android para Kiosko
-App para operar caja automática en dispositivos Android con impresión térmica integrada.
+### 🛠️ Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Tecnologías: Angular, Ionic, TypeScript
+---
 
-📊 Estadísticas de GitHub
-https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true
+## 📈 Proyectos Destacados
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true
+### 💳 Sistema de Pagos Bancarios FIBEX
+API para procesamiento de **webhooks bancarios en tiempo real**, con integración a múltiples bancos, sistema de reintentos y dashboard de monitoreo.
 
-🏆 Certificaciones
-Curso de Backend con ExpressJS - Platzi (2025)
+**Tecnologías:**  
+`Node.js` · `TypeScript` · `PostgreSQL` · `TypeORM` · `Zod` · `Swagger`
 
-Curso de Docker - Código Facilito (2023)
+---
 
-Curso de MongoDB y Node.js con Mongoose - Código Facilito (2023)
+### 🏦 Panel de Gestión de Caja Automática
+Aplicación web para administración centralizada de **dispositivos POS** y **caja automática**.
 
-Curso Profesional de Git y GitHub - Platzi (2021)
+**Tecnologías:**  
+`Next.js` · `React` · `TypeScript` · `TailwindCSS` · `Axios`
 
-📫 Conéctate Conmigo
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+---
 
-📝 Lo que me define
-🔧 Resolutivo: Me especializo en automatizar procesos complejos
+### 📲 Aplicación Android para Kiosko
+Aplicación para operar caja automática en dispositivos Android con **impresión térmica integrada**.
 
-🎯 Orientado a resultados: Cada línea de código tiene un propósito claro
+**Tecnologías:**  
+`Angular` · `Ionic` · `TypeScript`
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🏆 Certificaciones
+
+- 🎓 Backend con ExpressJS — Platzi (2025)
+- 🐳 Docker — Código Facilito (2023)
+- 🍃 MongoDB & Node.js con Mongoose — Código Facilito (2023)
+- 🔧 Git y GitHub Profesional — Platzi (2021)
+
+---
+
+## 📫 Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosrdf45@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio2-0-omega.vercel.app)
+
+---
+
+## 📝 Lo que me define
+
+- 🔧 **Resolutivo:** Automatizo procesos complejos con soluciones claras  
+- 🎯 **Orientado a resultados:** Cada línea de código tiene un propósito  
+- 📚 **Aprendiz constante:** Siempre explorando nuevas tecnologías  
+- 🤝 **Colaborativo:** Experiencia en equipos ágiles y multidisciplinarios  
+
+> *"Transformando problemas complejos en soluciones elegantes y eficientes"*
 
 📚 Aprendiz constante: Siempre explorando nuevas tecnologías y mejores prácticas
 
