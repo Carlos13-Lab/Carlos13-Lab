@@ -8,7 +8,7 @@ Me apasiona transformar procesos manuales en soluciones **automatizadas, seguras
 ## 🚀 Experiencia Destacada
 
 ### **Backend Developer — FibexTelecom**
-📅 *Jul 2025 – Actualidad*
+📅 *Jul 2025 – Feb 2026*
 
 - 🔐 **Sistema de Webhooks Bancarios**  
   Desarrollo de una **API REST** en **Node.js / TypeScript** integrando **4+ bancos venezolanos**, procesamiento de pagos en tiempo real, autenticación **JWT**, sistema de **reintentos**, y notificaciones vía **Telegram / SMS**.
