@@ -1,119 +1,29 @@
-# Carlos Díaz — Desarrollador Full Stack 👨‍💻
+# Carlos Díaz — Full Stack Developer
 
-👋 ¡Hola! Soy **Carlos**, Desarrollador Full Stack especializado en **TypeScript**, con experiencia construyendo **sistemas escalables**, **APIs robustas** y **aplicaciones web modernas**.  
-Me apasiona transformar procesos manuales en soluciones **automatizadas, seguras y eficientes**.
+**TypeScript · Node.js (Fastify, Express) · React / Next.js · Conversational AI**
+Based in Venezuela (UTC-4) · Open to remote work, full-time or contract · Español nativo
 
----
+I build production backends, web apps and AI voice/chat agents for insurance, payments and telecom companies. I care about reliability (retries, circuit breakers, idempotency), observability and code that stays easy to change.
 
-## 🚀 Experiencia Destacada
+## What I've been building (2025–2026)
 
-### **Backend Developer — FibexTelecom**
-📅 *Jul 2025 – Feb 2026*
+- **AI sales voice agent (ElevenLabs).** Designed the agent's prompt, knowledge base and guardrails; compared LLMs with automated WebSocket regression tests and moved from GPT-5.1 to Claude Haiku, cutting turns from up to 94 to at most 45 words in tests; fixed brand mis-transcription with ASR keywords and a pronunciation dictionary.
+- **AI assistant microservice for a mobile app.** Fastify + OpenAI Responses API with tool calling, SSE chat and live voice via ElevenLabs; 64 test files.
+- **Collections and scheduled jobs (Node.js / MySQL).** Batched, de-duplicated, single-flight cron jobs with test mode; a debt campaign that delivered 1,884 e-mails and surfaced 156 failed payments missing from the financing report.
+- **API gateway for three insurers.** Fastify adapters to a common contract, circuit breaker with backoff, RFC 7807 errors, OpenTelemetry + Prometheus + Grafana.
+- **Real-time bank webhooks (FibexTelecom).** Node.js/TypeScript API processing payments from 4 Venezuelan banks, with JWT, IP allow-listing, retries and alerts.
+- **Marketing site rebuild (Next.js).** Live pricing from an API, sign-up and payment flow (PayPal, Pago Móvil), SEO/GEO with JSON-LD and llms.txt.
 
-- 🔐 **Sistema de Webhooks Bancarios**  
-  Desarrollo de una **API REST** en **Node.js / TypeScript** integrando **4+ bancos venezolanos**, procesamiento de pagos en tiempo real, autenticación **JWT**, sistema de **reintentos**, y notificaciones vía **Telegram / SMS**.
+Most of this work lives in private client repositories. Public, client-free versions of the patterns are coming to this profile.
 
-- 🖥️ **Panel de Administración**  
-  Panel web en **Next.js / React** para gestión de caja automática y dispositivos POS, con filtros avanzados y **CRUD completo**.
+## Stack
 
-- 📱 **Aplicación Android (Kiosko)**  
-  Participación en el desarrollo de app con **Angular / Ionic** para kioskos de autoservicio con **impresión térmica integrada**.
+- **Backend:** Node.js, TypeScript, Fastify, Express, REST, OpenAPI, Zod, BullMQ, webhooks, cron jobs
+- **Frontend:** React, Next.js (App Router), TanStack Router/Query, Tailwind CSS, Angular, Ionic
+- **Data:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis, Prisma
+- **AI:** ElevenLabs Agents, OpenAI (Responses API, tool calling, vision), Claude, n8n, WhatsApp Business API, Twilio
+- **Ops:** Docker, Nginx, GitHub Actions, OpenTelemetry, Prometheus, Grafana, Loki, Sentry, Datadog
 
-- ⚙️ **Automatizaciones**  
-  Implementación de **Cron Jobs** para sincronización de datos IPTV y conciliación automática de pagos.
+## Contact
 
----
-
-### **Backend Developer — Interact (NoCountry)**
-📅 *May 2023 – Jun 2023*
-
-- Desarrollo de **plataforma educativa** con **Node.js, Express y MongoDB**.
-- Gestión de cursos, usuarios y calificaciones.
-- APIs RESTful con **JWT**, middlewares de seguridad y documentación **Swagger**.
-
----
-
-## 💻 Stack Tecnológico
-
-### 🧠 Lenguajes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🛠️ Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📈 Proyectos Destacados
-
-### 💳 Sistema de Pagos Bancarios FIBEX
-API para procesamiento de **webhooks bancarios en tiempo real**, con integración a múltiples bancos, sistema de reintentos y dashboard de monitoreo.
-
-**Tecnologías:**  
-`Node.js` · `TypeScript` · `PostgreSQL` · `TypeORM` · `Zod` · `Swagger`
-
----
-
-### 🏦 Panel de Gestión de Caja Automática
-Aplicación web para administración centralizada de **dispositivos POS** y **caja automática**.
-
-**Tecnologías:**  
-`Next.js` · `React` · `TypeScript` · `TailwindCSS` · `Axios`
-
----
-
-### 📲 Aplicación Android para Kiosko
-Aplicación para operar caja automática en dispositivos Android con **impresión térmica integrada**.
-
-**Tecnologías:**  
-`Angular` · `Ionic` · `TypeScript`
-
----
-
-## 🏆 Certificaciones
-
-- 🎓 Backend con ExpressJS — Platzi (2025)
-- 🐳 Docker — Código Facilito (2023)
-- 🍃 MongoDB & Node.js con Mongoose — Código Facilito (2023)
-- 🔧 Git y GitHub Profesional — Platzi (2021)
-
----
-
-## 📫 Conéctate Conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosdiazdeveloper/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosrdf45@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio2-0-omega.vercel.app)
-
----
-
-## 📝 Lo que me define
-
-- 🔧 **Resolutivo:** Automatizo procesos complejos con soluciones claras  
-- 🎯 **Orientado a resultados:** Cada línea de código tiene un propósito  
-- 📚 **Aprendiz constante:** Siempre explorando nuevas tecnologías  
-- 🤝 **Colaborativo:** Experiencia en equipos ágiles y multidisciplinarios  
-
-> *"Transformando problemas complejos en soluciones elegantes y eficientes"*
-
-📚 Aprendiz constante: Siempre explorando nuevas tecnologías y mejores prácticas
-
-🤝 Colaborativo: Experiencia trabajando en equipos ágiles y multidisciplinarios
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/carlosdiazdeveloper/) · [carlosrdf45@gmail.com](mailto:carlosrdf45@gmail.com)
