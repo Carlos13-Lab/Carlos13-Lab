@@ -14,7 +14,10 @@ I build production backends, web apps and AI voice/chat agents for insurance, pa
 - **Real-time bank webhooks (FibexTelecom).** Node.js/TypeScript API processing payments from 4 Venezuelan banks, with JWT, IP allow-listing, retries and alerts.
 - **Marketing site rebuild (Next.js).** Live pricing from an API, sign-up and payment flow (PayPal, Pago Móvil), SEO/GEO with JSON-LD and llms.txt.
 
-Most of this work lives in private client repositories. Public, client-free versions of the patterns are coming to this profile.
+Most of this work lives in private client repositories. Public, client-free versions of the patterns:
+
+- **[voice-agent-test-kit](https://github.com/Carlos13-Lab/voice-agent-test-kit)** — regression tests for ElevenLabs voice agents (word limits, required/forbidden phrases, hang-up) over scripted WebSocket calls, plus a TTS→STT check that a pronunciation dictionary works.
+- **[resilient-api-gateway](https://github.com/Carlos13-Lab/resilient-api-gateway)** — Fastify gateway that unifies three upstream APIs: per-upstream adapters, circuit breaker, retries with jitter, RFC 7807 errors, JWT scopes, OpenTelemetry and a Prometheus/Grafana dashboard via `docker compose up`.
 
 ## Stack
 
